@@ -57,7 +57,7 @@ A modern desktop GUI application for managing Firebase projects with ease. Built
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/firebase-manager.git
+git clone https://github.com/tjanos/firebase-manager.git
 cd firebase-manager
 ```
 
@@ -148,7 +148,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 🐛 Issues
 
-Found a bug? Please [open an issue](https://github.com/yourusername/firebase-manager/issues).
+Found a bug? Please [open an issue](https://github.com/tjanos/firebase-manager/issues).
 
 ### 👨‍💻 Author
 
@@ -207,7 +207,7 @@ Created with ❤️ by Turbucz János
 #### 1. lépés: Repository klónozása
 
 ```bash
-git clone https://github.com/yourusername/firebase-manager.git
+git clone https://github.com/tjanos/firebase-manager.git
 cd firebase-manager
 ```
 
@@ -298,7 +298,7 @@ A közreműködéseket szívesen fogadjuk! Nyugodtan nyiss Pull Request-et.
 
 ### 🐛 Hibák
 
-Találtál hibát? Kérlek [nyiss egy issue-t](https://github.com/yourusername/firebase-manager/issues).
+Találtál hibát? Kérlek [nyiss egy issue-t](https://github.com/tjanos/firebase-manager/issues).
 
 ### 👨‍💻 Készítő
 
