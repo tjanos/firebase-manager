@@ -152,7 +152,7 @@ Found a bug? Please [open an issue](https://github.com/yourusername/firebase-man
 
 ### 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Turbucz János
 
 ---
 
@@ -302,7 +302,7 @@ Találtál hibát? Kérlek [nyiss egy issue-t](https://github.com/yourusername/f
 
 ### 👨‍💻 Készítő
 
-Készítette ❤️-tel [Your Name]
+Készítette ❤️-tel Turbucz János
 
 ---
 
